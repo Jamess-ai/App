@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "244545126032",
+    "firebase_url": "https://primal-ivy-257509-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "primal-ivy-257509",
+    "storage_bucket": "primal-ivy-257509.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244545126032:android:e6d7884166da1d5ba2a215",
+        "android_client_info": {
+          "package_name": "com.example.firebasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244545126032-55okq1ohft4doba5tbo36k8kbglknjuv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKw-VadE5TsZIA4TG4ajp148MPJGRLFh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244545126032-55okq1ohft4doba5tbo36k8kbglknjuv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "244545126032-qgrjd8cenrt3mqgfnig23750fknq0png.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hobby.iosapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
